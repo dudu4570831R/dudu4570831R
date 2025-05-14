@@ -2,7 +2,7 @@
 
 Meu nome: Eduardo mendes
 
-
+sou estudante do alura (https://cursos.alura.com.br/course/solucoes-criativas-criando-interface-de-uma-rede-social/task/166921)
 
 @eduardo_mendes_444
 
